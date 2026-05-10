@@ -1,2 +1,2 @@
-# Repository-name-hccc-rooster
+# HCCCIB-Rooster
 HCCC Rooster App
